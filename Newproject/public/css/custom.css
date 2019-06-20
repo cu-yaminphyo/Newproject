@@ -1,0 +1,71 @@
+#navbarDropdown {
+    color: dodgerblue;
+    font-size: 1.5rem;
+}
+
+#navbarDropdown:hover {
+    color: limegreen;
+}
+
+#navitem {
+    color: aquamarine;
+    background-color: cyan;
+}
+
+
+/* #navitem:hover{
+    background-color:darkkhaki;
+} */
+
+#action {
+    align-items: left;
+}
+
+.navbar {
+    color: #FFFFFF;
+    background-color: blueviolet;
+}
+
+#carda {
+    color: blueviolet;
+    font-weight: 100;
+}
+
+#card:hover {
+    color: darkslategray;
+}
+
+#image {
+    width: 50%;
+    height: 50%;
+}
+
+#aa {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 350px;
+    height: 300px;
+}
+
+#play {
+    width: 100px;
+    height: 100px;
+    background-position: center;
+}
+
+#textcolor {
+    color: blueviolet;
+    font-size: 1rem;
+    font-display: inherit;
+    font-style: inheritre;
+}
+
+#pagination {
+    color: red;
+}
+
+#type {
+    font-size: 1.5rem;
+    color: aquamarine;
+}
